@@ -28,7 +28,7 @@
     <rule ref="Generic.WhiteSpace.DisallowTabIndent"/>
     <rule ref="MySource.PHP.EvalObjectFactory"/>
     <rule ref="MySource.PHP.GetRequestData"/>
-    <rule ref="PEAR.Commenting.ClassComment"/>
+    <!-- <rule ref="PEAR.Commenting.ClassComment"/> -->
     <rule ref="PEAR.Commenting.FunctionComment"/>
     <rule ref="PEAR.Commenting.InlineComment"/>
     <rule ref="Squiz.PHP.DisallowSizeFunctionsInLoops"/>
