@@ -6,4 +6,4 @@ This is a custom coding style guide rule set for PHP CodeSniffer. It is based on
 
 # Links
 
-- [RSD Coding Style Guide Info] (https://reneschmidt.de/wiki/index.php/page/view/CodingStyleGuides,Start)
+- [RSD Coding Style Guide Info] (https://reneschmidt.de/Wiki/index.php/page/view/CodingStyleGuides,Start)
